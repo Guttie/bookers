@@ -1,0 +1,40 @@
+h1 {
+  margin: 17px 0; }
+
+table {
+  display: table;
+  border-collapse: separate;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey; }
+
+tr th {
+  padding: 1px 1px 5px; }
+
+tbody td {
+  padding: 1px 5px 7px; }
+
+a {
+  color: #333; }
+
+h2 {
+  margin: 17px 0; }
+
+.alart-count {
+  padding: 5px 5px 5px 15px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #c00;
+  color: #fff; }
+
+div {
+  margin-bottom: 10px; }
+
+label {
+  display: block; }
+
+#notice {
+  color: green; }
+
+/*# sourceMappingURL=books.css.map */

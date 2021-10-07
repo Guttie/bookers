@@ -1,20 +1,6 @@
 // Place all the styles related to the books controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  margin: 33px;
-  font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
-  color: #333;
-  background-color: #fff;
-}
 
 h1{
   margin: 17px 0;
@@ -44,10 +30,32 @@ h2{
   margin: 17px 0;
 }
 
+.alart-count{
+  margin: -7px -7px 0;
+  padding: 5px 5px 5px 15px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #c00;
+  color: #fff;
+}
+
 div{
   margin-bottom: 10px;
 }
 
+.alaet{
+  width: 450px;
+  padding: 7px 7px 0;
+  margin-bottom: 20px;
+  border: 2px solid red;
+  background-color: #f0f0f0;
+}
+
 label{
   display: block;
+}
+
+#notice{
+  color: green;
 }
