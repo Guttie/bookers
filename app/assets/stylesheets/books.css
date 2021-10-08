@@ -20,16 +20,33 @@ a {
 h2 {
   margin: 17px 0; }
 
-.alart-count {
-  padding: 5px 5px 5px 15px;
+.alart{
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px 7px 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+.count{
   text-align: left;
   font-weight: bold;
+  padding: 5px 5px 5px 15px;
   font-size: 12px;
+  margin: -7px -7px 0;
   background-color: #c00;
-  color: #fff; }
+  color: #fff;
+}
 
-div {
-  margin-bottom: 10px; }
+ul{
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+.form{
+  margin-bottom: 10px;  
+}
 
 label {
   display: block; }
